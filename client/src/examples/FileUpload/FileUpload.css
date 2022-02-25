@@ -1,0 +1,21 @@
+.box {
+  display: flex;
+  align-items: center;
+}
+.label {
+}
+.file {
+  margin-left: 25px;
+}
+.date {
+  margin-left: -50px;
+}
+.button {
+  margin-left: 40px;
+  height: 30px;
+  width: 70px;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 5px;
+  cursor: pointer;
+}
